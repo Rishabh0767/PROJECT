@@ -28,6 +28,7 @@
     "swagger-ui-express": "^5.0.1"
   },
   "devDependencies": {
+    "@tauri-apps/cli": "^2.9.6",
     "concurrently": "^9.2.1",
     "jest": "^30.2.0",
     "supertest": "^7.1.4"
